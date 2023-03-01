@@ -1,3 +1,4 @@
+<a rel="me" href="https://mastodon.social/@fearlipe">Mastodon</a>
 # Hello there! 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fearlipe)](https://github.com/fearlipe)
