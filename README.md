@@ -5,8 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fearlipe)](https://twitter.com/fearlipe)
 [![wakatime](https://wakatime.com/badge/user/320128a6-32a0-45ff-9492-864cecfa9a08.svg)](https://wakatime.com/@320128a6-32a0-45ff-9492-864cecfa9a08)
 
-> Software Engineer <br>
-> Dev @ Diletta Solutions
+> Softeare Developer @ Kryptus
 
 [![Felipe Avelar Github Stats](https://github-readme-stats.vercel.app/api?username=fearlipe&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true)](https://github.com/fearlipe)
 
